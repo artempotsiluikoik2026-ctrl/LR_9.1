@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\potsi\\source\\repos\\лр 9.1\\лр 9.1\\dod.cpp",
+        "ProvidedModule": "",
+        "Includes": [
+            "c:\\users\\potsi\\source\\repos\\лр 9.1\\лр 9.1\\dod.h",
+            "c:\\users\\potsi\\source\\repos\\лр 9.1\\лр 9.1\\var.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
