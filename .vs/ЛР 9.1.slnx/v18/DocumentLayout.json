@@ -3,24 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\potsi\\source\\repos\\\u041B\u0420 9.1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3B3B575B-5251-9595-CC57-C425EE8C35F0}|test\\test.vcxproj|C:\\Users\\potsi\\source\\repos\\\u041B\u0420 9.1\\test\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3B3B575B-5251-9595-CC57-C425EE8C35F0}|test\\test.vcxproj|solutionrelative:test\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD0DF0AE-0B08-4290-9626-A0F9F959412E}|\u041B\u0420 9.1\\\u041B\u0420 9.1.vcxproj|C:\\Users\\potsi\\source\\repos\\\u041B\u0420 9.1\\\u041B\u0420 9.1\\sum.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CD0DF0AE-0B08-4290-9626-A0F9F959412E}|\u041B\u0420 9.1\\\u041B\u0420 9.1.vcxproj|solutionrelative:\u041B\u0420 9.1\\sum.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD0DF0AE-0B08-4290-9626-A0F9F959412E}|\u041B\u0420 9.1\\\u041B\u0420 9.1.vcxproj|C:\\Users\\potsi\\source\\repos\\\u041B\u0420 9.1\\\u041B\u0420 9.1\\sum.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CD0DF0AE-0B08-4290-9626-A0F9F959412E}|\u041B\u0420 9.1\\\u041B\u0420 9.1.vcxproj|solutionrelative:\u041B\u0420 9.1\\sum.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD0DF0AE-0B08-4290-9626-A0F9F959412E}|\u041B\u0420 9.1\\\u041B\u0420 9.1.vcxproj|C:\\Users\\potsi\\source\\repos\\\u041B\u0420 9.1\\\u041B\u0420 9.1\\dod.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CD0DF0AE-0B08-4290-9626-A0F9F959412E}|\u041B\u0420 9.1\\\u041B\u0420 9.1.vcxproj|solutionrelative:\u041B\u0420 9.1\\dod.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD0DF0AE-0B08-4290-9626-A0F9F959412E}|\u041B\u0420 9.1\\\u041B\u0420 9.1.vcxproj|C:\\Users\\potsi\\source\\repos\\\u041B\u0420 9.1\\\u041B\u0420 9.1\\dod.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CD0DF0AE-0B08-4290-9626-A0F9F959412E}|\u041B\u0420 9.1\\\u041B\u0420 9.1.vcxproj|solutionrelative:\u041B\u0420 9.1\\dod.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{CD0DF0AE-0B08-4290-9626-A0F9F959412E}|\u041B\u0420 9.1\\\u041B\u0420 9.1.vcxproj|C:\\Users\\potsi\\source\\repos\\\u041B\u0420 9.1\\\u041B\u0420 9.1\\\u041B\u0420 9.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CD0DF0AE-0B08-4290-9626-A0F9F959412E}|\u041B\u0420 9.1\\\u041B\u0420 9.1.vcxproj|solutionrelative:\u041B\u0420 9.1\\\u041B\u0420 9.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CD0DF0AE-0B08-4290-9626-A0F9F959412E}|\u041B\u0420 9.1\\\u041B\u0420 9.1.vcxproj|C:\\Users\\potsi\\source\\repos\\\u041B\u0420 9.1\\\u041B\u0420 9.1\\var.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -31,8 +15,24 @@
       "RelativeMoniker": "D:0:0:{CD0DF0AE-0B08-4290-9626-A0F9F959412E}|\u041B\u0420 9.1\\\u041B\u0420 9.1.vcxproj|solutionrelative:\u041B\u0420 9.1\\var.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD0DF0AE-0B08-4290-9626-A0F9F959412E}|\u041B\u0420 9.1\\\u041B\u0420 9.1.vcxproj|C:\\Users\\potsi\\source\\repos\\\u041B\u0420 9.1\\\u041B\u0420 9.1\\\u041B\u0420 9.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CD0DF0AE-0B08-4290-9626-A0F9F959412E}|\u041B\u0420 9.1\\\u041B\u0420 9.1.vcxproj|solutionrelative:\u041B\u0420 9.1\\\u041B\u0420 9.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{CD0DF0AE-0B08-4290-9626-A0F9F959412E}|\u041B\u0420 9.1\\\u041B\u0420 9.1.vcxproj|C:\\Users\\potsi\\source\\repos\\\u041B\u0420 9.1\\\u041B\u0420 9.1\\dod.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CD0DF0AE-0B08-4290-9626-A0F9F959412E}|\u041B\u0420 9.1\\\u041B\u0420 9.1.vcxproj|solutionrelative:\u041B\u0420 9.1\\dod.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD0DF0AE-0B08-4290-9626-A0F9F959412E}|\u041B\u0420 9.1\\\u041B\u0420 9.1.vcxproj|C:\\Users\\potsi\\source\\repos\\\u041B\u0420 9.1\\\u041B\u0420 9.1\\dod.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CD0DF0AE-0B08-4290-9626-A0F9F959412E}|\u041B\u0420 9.1\\\u041B\u0420 9.1.vcxproj|solutionrelative:\u041B\u0420 9.1\\dod.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B3B575B-5251-9595-CC57-C425EE8C35F0}|test\\test.vcxproj|C:\\Users\\potsi\\source\\repos\\\u041B\u0420 9.1\\test\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3B3B575B-5251-9595-CC57-C425EE8C35F0}|test\\test.vcxproj|solutionrelative:test\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD0DF0AE-0B08-4290-9626-A0F9F959412E}|\u041B\u0420 9.1\\\u041B\u0420 9.1.vcxproj|C:\\Users\\potsi\\source\\repos\\\u041B\u0420 9.1\\\u041B\u0420 9.1\\sum.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CD0DF0AE-0B08-4290-9626-A0F9F959412E}|\u041B\u0420 9.1\\\u041B\u0420 9.1.vcxproj|solutionrelative:\u041B\u0420 9.1\\sum.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD0DF0AE-0B08-4290-9626-A0F9F959412E}|\u041B\u0420 9.1\\\u041B\u0420 9.1.vcxproj|C:\\Users\\potsi\\source\\repos\\\u041B\u0420 9.1\\\u041B\u0420 9.1\\sum.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CD0DF0AE-0B08-4290-9626-A0F9F959412E}|\u041B\u0420 9.1\\\u041B\u0420 9.1.vcxproj|solutionrelative:\u041B\u0420 9.1\\sum.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,49 +42,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 8,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "test.cpp",
-              "DocumentMoniker": "C:\\Users\\potsi\\source\\repos\\\u041B\u0420 9.1\\test\\test.cpp",
-              "RelativeDocumentMoniker": "test\\test.cpp",
-              "ToolTip": "C:\\Users\\potsi\\source\\repos\\\u041B\u0420 9.1\\test\\test.cpp",
-              "RelativeToolTip": "test\\test.cpp",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAC0AAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-11-15T18:42:32.315Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "sum.cpp",
-              "DocumentMoniker": "C:\\Users\\potsi\\source\\repos\\\u041B\u0420 9.1\\\u041B\u0420 9.1\\sum.cpp",
-              "RelativeDocumentMoniker": "\u041B\u0420 9.1\\sum.cpp",
-              "ToolTip": "C:\\Users\\potsi\\source\\repos\\\u041B\u0420 9.1\\\u041B\u0420 9.1\\sum.cpp",
-              "RelativeToolTip": "\u041B\u0420 9.1\\sum.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-11-15T17:42:17.858Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "sum.h",
-              "DocumentMoniker": "C:\\Users\\potsi\\source\\repos\\\u041B\u0420 9.1\\\u041B\u0420 9.1\\sum.h",
-              "RelativeDocumentMoniker": "\u041B\u0420 9.1\\sum.h",
-              "ToolTip": "C:\\Users\\potsi\\source\\repos\\\u041B\u0420 9.1\\\u041B\u0420 9.1\\sum.h",
-              "RelativeToolTip": "\u041B\u0420 9.1\\sum.h",
+              "DocumentIndex": 4,
+              "Title": "dod.h",
+              "DocumentMoniker": "C:\\Users\\potsi\\source\\repos\\\u041B\u0420 9.1\\\u041B\u0420 9.1\\dod.h",
+              "RelativeDocumentMoniker": "\u041B\u0420 9.1\\dod.h",
+              "ToolTip": "C:\\Users\\potsi\\source\\repos\\\u041B\u0420 9.1\\\u041B\u0420 9.1\\dod.h",
+              "RelativeToolTip": "\u041B\u0420 9.1\\dod.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-11-15T17:41:15.356Z"
+              "WhenOpened": "2026-11-15T17:40:57.692Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -96,23 +67,52 @@
               "RelativeToolTip": "\u041B\u0420 9.1\\dod.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-11-15T17:42:05.358Z"
+              "WhenOpened": "2026-11-15T17:42:05.358Z",
+              "EditorCaption": ""
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "dod.h",
-              "DocumentMoniker": "C:\\Users\\potsi\\source\\repos\\\u041B\u0420 9.1\\\u041B\u0420 9.1\\dod.h",
-              "RelativeDocumentMoniker": "\u041B\u0420 9.1\\dod.h",
-              "ToolTip": "C:\\Users\\potsi\\source\\repos\\\u041B\u0420 9.1\\\u041B\u0420 9.1\\dod.h",
-              "RelativeToolTip": "\u041B\u0420 9.1\\dod.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-11-15T17:40:57.692Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "test.cpp",
+              "DocumentMoniker": "C:\\Users\\potsi\\source\\repos\\\u041B\u0420 9.1\\test\\test.cpp",
+              "RelativeDocumentMoniker": "test\\test.cpp",
+              "ToolTip": "C:\\Users\\potsi\\source\\repos\\\u041B\u0420 9.1\\test\\test.cpp",
+              "RelativeToolTip": "test\\test.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-15T18:42:32.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "sum.cpp",
+              "DocumentMoniker": "C:\\Users\\potsi\\source\\repos\\\u041B\u0420 9.1\\\u041B\u0420 9.1\\sum.cpp",
+              "RelativeDocumentMoniker": "\u041B\u0420 9.1\\sum.cpp",
+              "ToolTip": "C:\\Users\\potsi\\source\\repos\\\u041B\u0420 9.1\\\u041B\u0420 9.1\\sum.cpp",
+              "RelativeToolTip": "\u041B\u0420 9.1\\sum.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-15T17:42:17.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "sum.h",
+              "DocumentMoniker": "C:\\Users\\potsi\\source\\repos\\\u041B\u0420 9.1\\\u041B\u0420 9.1\\sum.h",
+              "RelativeDocumentMoniker": "\u041B\u0420 9.1\\sum.h",
+              "ToolTip": "C:\\Users\\potsi\\source\\repos\\\u041B\u0420 9.1\\\u041B\u0420 9.1\\sum.h",
+              "RelativeToolTip": "\u041B\u0420 9.1\\sum.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-11-15T17:41:15.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "var.cpp",
               "DocumentMoniker": "C:\\Users\\potsi\\source\\repos\\\u041B\u0420 9.1\\\u041B\u0420 9.1\\var.cpp",
               "RelativeDocumentMoniker": "\u041B\u0420 9.1\\var.cpp",
@@ -120,31 +120,34 @@
               "RelativeToolTip": "\u041B\u0420 9.1\\var.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-11-15T17:41:45.289Z"
+              "WhenOpened": "2026-11-16T15:06:59.516Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "var.h",
               "DocumentMoniker": "C:\\Users\\potsi\\source\\repos\\\u041B\u0420 9.1\\\u041B\u0420 9.1\\var.h",
               "RelativeDocumentMoniker": "\u041B\u0420 9.1\\var.h",
               "ToolTip": "C:\\Users\\potsi\\source\\repos\\\u041B\u0420 9.1\\\u041B\u0420 9.1\\var.h",
               "RelativeToolTip": "\u041B\u0420 9.1\\var.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-11-15T17:39:56.675Z"
+              "WhenOpened": "2026-11-16T15:06:55.556Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "\u041B\u0420 9.1.cpp",
               "DocumentMoniker": "C:\\Users\\potsi\\source\\repos\\\u041B\u0420 9.1\\\u041B\u0420 9.1\\\u041B\u0420 9.1.cpp",
               "RelativeDocumentMoniker": "\u041B\u0420 9.1\\\u041B\u0420 9.1.cpp",
               "ToolTip": "C:\\Users\\potsi\\source\\repos\\\u041B\u0420 9.1\\\u041B\u0420 9.1\\\u041B\u0420 9.1.cpp",
               "RelativeToolTip": "\u041B\u0420 9.1\\\u041B\u0420 9.1.cpp",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAwwC4AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-11-15T17:38:16.396Z"
+              "WhenOpened": "2026-11-15T17:38:16.396Z",
+              "EditorCaption": ""
             }
           ]
         }

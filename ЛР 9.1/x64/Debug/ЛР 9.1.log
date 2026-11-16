@@ -1,5 +1,4 @@
-﻿C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppClean.targets(77,5): warning : The process cannot access the file 'c:\users\potsi\source\repos\лр 9.1\x64\debug\лр 9.1.exe' because it is being used by another process.
-  dod.cpp
+﻿  dod.cpp
   sum.cpp
   var.cpp
   ЛР 9.1.cpp
