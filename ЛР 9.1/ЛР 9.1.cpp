@@ -1,4 +1,4 @@
-﻿// Lab_9_1.cpp
+﻿//ЛР 9.1.cpp
 //головний файл проєкту – функція main
 
 #include <iostream>
